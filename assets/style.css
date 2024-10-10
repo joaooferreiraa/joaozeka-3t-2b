@@ -7,6 +7,8 @@
 body {
     background: url('img/palmeiras.jpg');
     font-family: Bai Jamjuree;
+    background-size: cover;
+    background-position: center;
 }
 
 #container {
